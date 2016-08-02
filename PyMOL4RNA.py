@@ -21,7 +21,7 @@ def rp17():
  color orange, resi 42-47+48-52;
  color yellow, resi 53-54;
 """
-  color_by_text(txt)
+    color_by_text(txt)
 
 cmd.extend('rp17', rp17)
 cmd.extend('rp', rp)   

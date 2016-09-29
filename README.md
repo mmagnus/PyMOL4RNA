@@ -1,5 +1,6 @@
 PyMOL4RNA
 =========
+Go to https://github.com/mmagnus/rna-pdb-tools for the latest version.
 
 To get:
 
